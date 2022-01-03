@@ -11,3 +11,8 @@ The goal of this analysis is to create a report that includes the types of crypt
 - Python 3.9.1
 - Plotly
 - HvPlot
+
+
+Thank you for your time
+
+John
